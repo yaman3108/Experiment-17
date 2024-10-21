@@ -106,4 +106,4 @@ int main(){
 
 
 ## Conclusion:
-This program helps us understand how exceptional handling works in C++. The working of the different keywords like try,throw and catch are also explained in this program.
+This program helps us understand the syntax of linked lists in C++ and different types of linked lists such as singly linked, doubly linked and circular linked.
